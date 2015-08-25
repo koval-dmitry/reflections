@@ -9,3 +9,6 @@ Using git diff --staged in order to compare changes to the latest commit in repo
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When you want your project to have a different specific version, leaving the main version intact.
+
+How do the diagrams help you visualize the branch structure?
+They show the relations between commits and how they stack into branches, thus giving our the visualisation on reachability of the commits from each branch.
