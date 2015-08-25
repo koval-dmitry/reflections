@@ -16,3 +16,6 @@ They show the relations between commits and how they stack into branches, thus g
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 When one branch is getting merged into another, the target branch has all the commits from the both, and the first branch can be removed.
 The diagram shows how the resulting branch will include the commits from the both.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic merges save time if there is no conflict. Otherwise, if the conflict happens, it is best to megre the conflicting lines manually.
