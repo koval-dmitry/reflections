@@ -3,3 +3,9 @@ At this point Git creates its folder and is ready to start tracking versions.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area is a sort of cache to gather the specific files from the repo/working directory and to create the commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Using git diff --staged in order to compare changes to the latest commit in repo before committing changes.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want your project to have a different specific version, leaving the main version intact.
