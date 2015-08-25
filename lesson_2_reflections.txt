@@ -12,3 +12,7 @@ When you want your project to have a different specific version, leaving the mai
 
 How do the diagrams help you visualize the branch structure?
 They show the relations between commits and how they stack into branches, thus giving our the visualisation on reachability of the commits from each branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+When one branch is getting merged into another, the target branch has all the commits from the both, and the first branch can be removed.
+The diagram shows how the resulting branch will include the commits from the both.
