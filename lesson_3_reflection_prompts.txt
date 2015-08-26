@@ -11,3 +11,6 @@ Branches are used to create the alternative development of your general project.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can continue working on the collaborative project while you are offline, and correctly merge your work with the origin, even if it already has new commits from other people.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+The learning curve of Git is steep, but it makes sense to master it. Even though it's faster to send files via email to collaborate, for coding specifically it is more safe and really convenient to collaborate using Git and GitHub.
