@@ -14,3 +14,6 @@ You can continue working on the collaborative project while you are offline, and
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 The learning curve of Git is steep, but it makes sense to master it. Even though it's faster to send files via email to collaborate, for coding specifically it is more safe and really convenient to collaborate using Git and GitHub.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Combining your own features with other people's code for merging them into master branch.
